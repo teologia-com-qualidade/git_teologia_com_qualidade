@@ -1,2 +1,2 @@
-# git_teologia_com_qualidade
+# Teologia Com Qualidade
  teste do site teologia com qualidade
